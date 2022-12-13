@@ -2,6 +2,6 @@
 
 - ### [JavaScript](#📌-javascript)
 
-## 👑 JavaScript
+# 👑 JavaScript
 
 - [OOP](https://github.com/SungSeokMin/front-end-interview/blob/master/javascript/OOP.md)
