@@ -1,6 +1,6 @@
 # 👀 목차
 
-- ## [JavaScript](#📌-javascript)
+- ### [JavaScript](#📌-javascript)
 
 ## 👑 JavaScript
 
